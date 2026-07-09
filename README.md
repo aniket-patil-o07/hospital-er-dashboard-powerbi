@@ -175,4 +175,8 @@ hospital-er-dashboard-powerbi
 
 📍 Pune, Maharashtra, India
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+💼 LinkedIn: https://www.linkedin.com/in/aniket-patil-o07
+
+💻 GitHub: https://github.com/aniket-patil-o07
+
+⭐ If you found this project useful, consider giving it a Star!
