@@ -6,9 +6,8 @@ Interactive Hospital Emergency Room Dashboard built using **Power BI**, **DAX**,
 ![DAX](https://img.shields.io/badge/DAX-02569B?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Project Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen?style=for-the-badge)
 
----
 
 # 📌 Project Overview
 
