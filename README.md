@@ -126,6 +126,7 @@ hospital-er-dashboard-powerbi
 │
 ├── Dashboard
 │   └── Hospital_ER_Dashboard.pbix
+│   └── Hospital_ER_Dashboard.pdf
 │
 ├── Dataset
 │   └── Hospital_ER_Data.csv
